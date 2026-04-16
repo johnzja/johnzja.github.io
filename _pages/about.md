@@ -9,15 +9,11 @@ redirect_from:
 
 Ph. D. Student, September 2021~<br>
 Department of Electronic Engineering, Tsinghua University, Beijing 100084, China<br>
-Research Interests: Information theory, electromangetic information theory (EIT), Reconfigurable Intelligent Surface (RIS)
-
-Address: Room 8-212, Tsinghua-Rohm EE Hall, Tsinghua University, Beijing 100084, China
-
-Tel: +86-15801916963
-
-E-mail:  [Tsinghua](zja21@mails.tsinghua.edu.cn) [NUS](jieaozhu@u.nus.edu)
-
-[Tsinghua Homepage](https://oa.ee.tsinghua.edu.cn/dailinglong/members/jieaozhu.html)
+Research Interests: Information theory, electromangetic information theory (EIT), Reconfigurable Intelligent Surface (RIS)<br>
+Address: Room 8-212, Tsinghua-Rohm EE Hall, Tsinghua University, Beijing 100084, China<br>
+Tel: +86-15801916963<br>
+E-mail:  [Tsinghua](zja21@mails.tsinghua.edu.cn) [NUS](jieaozhu@u.nus.edu)<br>
+[Tsinghua Homepage](https://oa.ee.tsinghua.edu.cn/dailinglong/members/jieaozhu.html)<br>
 
 Biography
 ======
@@ -29,18 +25,18 @@ Awards
    2025年 <font color="red">研究生国家奖学金</font>
 1. Comprehensive Excellent Scholarship of Tsinghua University, 2024. <br> 
    2024年 清华之友 济宁英才奖学金（综奖二等奖）
-1. Comprehensive Excellent Scholarship of Tsinghua University, 2023. 
+1. Comprehensive Excellent Scholarship of Tsinghua University, 2023. <br>
    2023年 清华之友 九坤奖学金（综奖二等奖）
-1. Future Scholars Scholarship, Dept. Electronics Engineering, Tsinghua University, 2021. 
+1. Future Scholars Scholarship, Dept. Electronics Engineering, Tsinghua University, 2021. <br>
    2021年 清华大学电子系 未来学者奖学金（<font color="red">排名：1/80</font>）
-1. Outstanding Graduates of Beijing, 2021. 
+1. Outstanding Graduates of Beijing, 2021. <br>
    2021年 北京市 优秀毕业生（<font color="red">排名3/273</font>）
-1. Comprehensive Excellent Scholarship of Tsinghua University (National Scholarship), 2020. 
+1. Comprehensive Excellent Scholarship of Tsinghua University (National Scholarship), 2020. <br>
    2020年 电子系 综合优秀奖学金（国家奖学金）
-1. Tsinghua's Friend- Zheng Geru Scholarship. 
+1. Tsinghua's Friend- Zheng Geru Scholarship. <br>
    2019年 清华之友-郑格如奖学金 （综奖二等奖）
-1. First prize in National College Students Physics Competition. 
+1. First prize in National College Students Physics Competition. <br>
    2018年 全国部分地区大学生物理竞赛一等奖
-1. Comprehensive Excellent Scholarship of Tsinghua University (National Scholarship), 2018. 
+1. Comprehensive Excellent Scholarship of Tsinghua University (National Scholarship), 2018. <br>
    2018年 电子系 综合优秀奖学金（国家奖学金）
 
