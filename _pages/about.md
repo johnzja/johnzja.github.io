@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Ph. D. Student, September 2021~
-
-Department of Electronic Engineering, Tsinghua University, Beijing 100084, China
-
+Ph. D. Student, September 2021~<br>
+Department of Electronic Engineering, Tsinghua University, Beijing 100084, China<br>
 Research Interests: Information theory, electromangetic information theory (EIT), Reconfigurable Intelligent Surface (RIS)
 
 Address: Room 8-212, Tsinghua-Rohm EE Hall, Tsinghua University, Beijing 100084, China
@@ -19,7 +17,7 @@ Tel: +86-15801916963
 
 E-mail:  [Tsinghua](zja21@mails.tsinghua.edu.cn) [NUS](jieaozhu@u.nus.edu)
 
-[Tsinghua Homepage](http://oa.ee.tsinghua.edu.cn/dailinglong/members/jieaozhu)
+[Tsinghua Homepage](https://oa.ee.tsinghua.edu.cn/dailinglong/members/jieaozhu.html)
 
 Biography
 ======
@@ -27,9 +25,9 @@ Jieao Zhu is a Ph.D. candidate in Electronic Engineering of Tsinghua University 
 
 Awards
 ======
-1. National Scholarship for Graduate Students, 2025. 
+1. National Scholarship for Graduate Students, 2025. <br>
    2025年 <font color="red">研究生国家奖学金</font>
-1. Comprehensive Excellent Scholarship of Tsinghua University, 2024. 
+1. Comprehensive Excellent Scholarship of Tsinghua University, 2024. <br> 
    2024年 清华之友 济宁英才奖学金（综奖二等奖）
 1. Comprehensive Excellent Scholarship of Tsinghua University, 2023. 
    2023年 清华之友 九坤奖学金（综奖二等奖）
